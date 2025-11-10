@@ -3,7 +3,7 @@
 ## Repositories
 
 | | Repo | Status | Actions | Description |
-|--:|:--|:--|:--|
+|--:|:--|:--|:--|:--|
 | Architecture | [GitHub](https://github.com/moosi312-master-thesis/architecture)  | |  | Architecture Diagrams |
 | Deployment | [GitHub](https://github.com/tech-atlas-master-thesis/deployment) | | Docker deployment and scripts |
 | Dashboard UI | [GitHub](https://github.com/tech-atlas-master-thesis/dashboard-ui) | | |
