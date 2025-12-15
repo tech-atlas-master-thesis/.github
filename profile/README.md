@@ -10,5 +10,5 @@
 | Dashboard BE | [GitHub](https://github.com/tech-atlas-master-thesis/dashboard-backend) | | | |
 | Admin UI | [GitHub](https://github.com/tech-atlas-master-thesis/admin-ui) | | | |
 | Pipeline Framework | [GitHub](https://github.com/tech-atlas-master-thesis/pipeline-framework) | | | |
-| Dashboard BE | [GitHub](https://github.com/tech-atlas-master-thesis/scraper-backend) | | | |
-| Dashboard BE | [GitHub](https://github.com/tech-atlas-master-thesis/transformer-backend) | | | |
+| Scraper BE | [GitHub](https://github.com/tech-atlas-master-thesis/scraper-backend) | | | |
+| Transformer BE | [GitHub](https://github.com/tech-atlas-master-thesis/transformer-backend) | | | |
